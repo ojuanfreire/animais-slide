@@ -1,4 +1,4 @@
-# ANIMAIS FANTÁSTICOS
+# ANIMAIS SLIDE
 <p align = "center">
   <img src = "https://github.com/ojuanfreire/animais-slide/blob/master/img/pagina-inicial.png" alt = "Slide" tittle = "Slide">
 </p> 
